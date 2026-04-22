@@ -1,0 +1,7 @@
+{
+  "name": "Zara - Your AI Girlfriend",
+  "description": "A charming, witty, and bilingual (English/Bangla) AI Girlfriend with customizable moods.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
